@@ -11,7 +11,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-c0de.netlify.app/)
+- Live Site URL: [QR Code Component](https://qr-c0de.netlify.app/)
 
 ## Built with
 
